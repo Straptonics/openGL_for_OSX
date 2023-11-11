@@ -1,7 +1,7 @@
 # OpenGL_for_OSX
 this respiratory contains the guide of how to use openGL on macOS 13 or later.
 
-### To do this, we first need to install homebrw. (it's safe)
+### To do this, we first need to install homebrew. (it's safe)
 first of all go to homebrew's official page and install it by using terminal. for convinience, straight away use the official instaling command given below 👇🏻.
 > /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
